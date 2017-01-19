@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="4026900970">
+    <data-source source="LOCAL" name="PostgreSQL - PhotoShop@localhost" uuid="c2ccc2f1-6840-48f0-8eed-2ec24a6dd654">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/PhotoShop</jdbc-url>
+    </data-source>
+  </component>
+</project>

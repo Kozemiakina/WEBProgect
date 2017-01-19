@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="PhotoShop:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="PhotoShop-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="PhotoShop:war exploded" />
+    </root>
+  </artifact>
+</component>
